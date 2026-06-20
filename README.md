@@ -21,7 +21,6 @@ https://github.com/Tanghao988/Mansui-skill
 
 基于满穗人设.txt与满穗.txt通过character skill producer用deepseek蒸馏的人物skill
 
-(记得在导入前删掉这两个文件喵~）
 
 这个skill的最大特点就是可以完美适配微信qq聊天，模拟的人格如skill.md所示：
 
