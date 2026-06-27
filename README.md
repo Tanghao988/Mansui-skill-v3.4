@@ -1,4 +1,4 @@
-# 满穗skill（Mansui skill)
+#Mansui-skill-v2
 
 ---
 
@@ -7,9 +7,7 @@ https://github.com/Tanghao988/Mansui-skill
 
 
    
-基于 character skill producer 产生的满穗人物skill蒸馏个人AI人格模拟skill文档
-
-仅用于个人学习创作没有侵权的意思（哭）
+用小龙虾（claw）框架聊天已不在少数，为适配微信、QQ 聊天 结合此框架，让你可以随时随地利用此人设与满穗聊天，同时可以最大节省 Token 使用的 Mansui-skill-v2!
 
 </div>
 
