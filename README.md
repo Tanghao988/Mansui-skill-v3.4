@@ -294,4 +294,4 @@ Mansui-skill-3.1/
 https://github.com/alchaincyf/nuwa-skill
 https://github.com/titanwings/colleague-skill
 https://github.com/JuliusBrussee/caveman
-结合deepseek，cloade, glm.审核生成 🔥
+结合deepseek，claude, glm.审核生成 🔥
