@@ -4,7 +4,7 @@
 
 <div align="center">
 
-https://github.com/Tanghao988/Mansui-skill-v3.4
+https://github.com/Tanghao988/Mansui-skill-v3.5
 
 ### *面向微信、QQ式短对话的满穗人格 Skill：原文语感校准、动态热度、按需记忆。*
 
